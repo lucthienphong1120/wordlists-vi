@@ -1,0 +1,3 @@
+# wordlists-vi
+
+Vietnamese wordlists
