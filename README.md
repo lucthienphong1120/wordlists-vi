@@ -12,4 +12,6 @@ Password Dict Collections for Vietnamese Language
 
 ## See also
 
-> Common User Passwords Profiler (CUPP) Passlist Generator [Cupp](https://github.com/lucthienphong1120/cupp)
+> User Passwords Profiler Passlist Generator [Cupp](https://github.com/lucthienphong1120/cupp)
+
+> Generate a dictionary file containing words [Crunch](https://www.kali.org/tools/crunch)
