@@ -9,3 +9,7 @@ Most common password entries related to Vietnamese users as seen on public datab
 > More details at https://www.dfir.vn/2018/05/03/top-100-passwords-vietnamese/
 
 Password Dict Collections for Vietnamese Language
+
+## See also
+
+> Common User Passwords Profiler (CUPP) Passlist Generator [Cupp](https://github.com/lucthienphong1120/cupp)
